@@ -1,20 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- @kaufmannalan Sign out
-1
-1 0 keshavneeraj2019/ApCompSci
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-ApCompSci/Election-d/main.java
-711d21c  22 hours ago
-@keshavneeraj2019 keshavneeraj2019 Create main.java
-     
-132 lines (122 sloc)  8.59 KB
 public class Main {
 
     public static int x1 = 0, x2 = 0, x3 = 0, x4 = 0, y1 = 0, y2 = 0, y3 = 0, y4 = 0, z1 = 0, z2 = 0, z3 = 0, z4 = 0, t1 = 0, t2 = 0, t3 = 0, t4 = 0;
@@ -146,16 +130,3 @@ public class Main {
         }
     }
 }
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
