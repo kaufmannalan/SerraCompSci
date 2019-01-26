@@ -1,0 +1,31 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=51365:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Alan\IdeaProjects\untitled6\out\production\untitled6 Main
+
+President List:
+Golding, Mordy - 70 votes
+Gotshalk, Shira - 61 votes
+Evans, Stephanie - 54 votes
+Villalobos, Ray - 57 votes
+Golding, Mordy won!
+
+Vice President List:
+Sarkar, Dona - 66 votes
+Ahn, Tyler - 64 votes
+Camp, Joe - 57 votes
+LeBlanc, Jordan - 55 votes
+Sarkar, Dona won!
+
+Secretary List: 
+Howard, Jason - 66 votes
+Rubino, Nikki - 64 votes
+Fisher, Peggy - 53 votes
+Edde, Neil - 59 votes
+Howard, Jason won!
+
+Treasurer List: 
+Gassner, David - 60 votes
+Bennett, Sharon - 50 votes
+Ritscher, Walt - 67 votes
+Hurley, Heather - 65 votes
+Ritscher, Walt won!
+
+Process finished with exit code 0
