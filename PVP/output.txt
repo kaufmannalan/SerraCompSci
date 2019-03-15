@@ -1,0 +1,51 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=52302:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Alan\IdeaProjects\untitled8\out\production\untitled8 Main
+A new PlayerCharacter!
+A new Fighter has been created!
+Fredericka McWhirr, a Fighter:
+ HP:  54/ 54
+ MP:   0/  0
+STR:  16
+INT:   9
+AGI:  13
+CON:  11
+A new PlayerCharacter!
+A new Mage has been created!
+Skeletor, a Mage:
+ HP:  11/ 11
+ MP:  49/ 49
+STR:  11
+INT:  17
+AGI:  11
+WIS:  16
+A new PlayerCharacter!
+A new Paladin has been created!
+Thonk Thunderhamerr, a Paladin:
+ HP:  41/ 41
+ MP:  46/ 46
+STR:  15
+INT:  18
+AGI:   8
+WIS:  15
+CON:  18
+A new PlayerCharacter!
+A new Paladin has been created!
+Sh'ar M'kal-masal-safari, The Radiant, Md., a Priest:
+ HP:  10/ 10
+ MP:  47/ 47
+STR:  10
+INT:  19
+AGI:  14
+CHA:  14
+A new PlayerCharacter!
+A new Druid has been created!
+Zephyr Whitefeather, a Druid:
+ HP:  45/ 45
+ MP:  84/ 84
+STR:  11
+INT:  21
+AGI:   6
+WIS:  11
+CON:  21
+5
+
+Process finished with exit code 0
