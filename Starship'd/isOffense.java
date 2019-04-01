@@ -1,4 +1,4 @@
-public interface IsOffense {
+interface IsOffense {
 
     public void showStats();
 }
